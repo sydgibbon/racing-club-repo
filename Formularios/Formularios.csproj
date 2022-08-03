@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25368587-199A-4C90-9FFE-F4406F4A8581}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Formularios</RootNamespace>
+    <AssemblyName>Formularios</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entidades\agendas.cs" />
+    <Compile Include="Entidades\Categorias.cs" />
+    <Compile Include="Entidades\Partido.cs" />
+    <Compile Include="Entidades\intRow.cs" />
+    <Compile Include="Concentrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concentrados.Designer.cs">
+      <DependentUpon>Concentrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="regAbono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regAbono.Designer.cs">
+      <DependentUpon>regAbono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validacion.cs" />
+    <Compile Include="ConsultasSQL.cs" />
+    <Compile Include="Entidades\Alumno.cs" />
+    <Compile Include="Entidades\Cuotas.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="regCuotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regCuotas.Designer.cs">
+      <DependentUpon>regCuotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buscarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buscarAlumno.Designer.cs">
+      <DependentUpon>buscarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAV_RACINGDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PAV_RACINGDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PAV_RACINGDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PAV_RACINGDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="regAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regAlumnos.Designer.cs">
+      <DependentUpon>regAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tablaEstadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablaEstadistica.Designer.cs">
+      <DependentUpon>tablaEstadistica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registroPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registroPartido.Designer.cs">
+      <DependentUpon>registroPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="regArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regArticulo.Designer.cs">
+      <DependentUpon>regArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="regCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regCategoria.Designer.cs">
+      <DependentUpon>regCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="regAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regAgenda.Designer.cs">
+      <DependentUpon>regAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Concentrados.resx">
+      <DependentUpon>Concentrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regAbono.resx">
+      <DependentUpon>regAbono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regCuotas.resx">
+      <DependentUpon>regCuotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buscarAlumno.resx">
+      <DependentUpon>buscarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regAlumnos.resx">
+      <DependentUpon>regAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablaEstadistica.resx">
+      <DependentUpon>tablaEstadistica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registroPartido.resx">
+      <DependentUpon>registroPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regArticulo.resx">
+      <DependentUpon>regArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regCategoria.resx">
+      <DependentUpon>regCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regAgenda.resx">
+      <DependentUpon>regAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="PAV_RACINGDataSet.xsc">
+      <DependentUpon>PAV_RACINGDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PAV_RACINGDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PAV_RACINGDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PAV_RACINGDataSet.xss">
+      <DependentUpon>PAV_RACINGDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PAV_RACINGDataSet1.xsc">
+      <DependentUpon>PAV_RACINGDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PAV_RACINGDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PAV_RACINGDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PAV_RACINGDataSet1.xss">
+      <DependentUpon>PAV_RACINGDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,83 @@
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form3.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form4.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form3.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form4.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.login.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Form4.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Form5.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Form6.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Form7.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Form8.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios (1)-20190508T002926Z-001\Formularios (1)\Formularios\obj\Debug\Formularios.regAlumnos.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.regAlumnos.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.login.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.tablaEstadistica.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.registroPartido.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.regArticulo.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.regCategoria.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.regAgenda.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.regCuotas.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios (1)\Formularios\obj\Debug\Formularios.buscarAlumno.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.regCuotas.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.buscarAlumno.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.regAlumnos.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.login.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.tablaEstadistica.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.registroPartido.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.regArticulo.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.regCategoria.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.regAgenda.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.Concentrados.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Google Drive\PAV 2019\Formularios SYD\Formularios\obj\Debug\Formularios.regAbono.resources

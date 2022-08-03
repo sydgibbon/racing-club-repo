@@ -1,0 +1,41 @@
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form3.resources
+C:\Users\Usuario\Documents\mis documentos mati\2019\PAV1\TrabajoPractico\Formularios\Formularios\obj\Debug\Formularios.Form4.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form3.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Form4.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Nico\Desktop\facultad UTN\TERCER AÑO\PAV\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.Form5.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.Alumnos.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.login.resources
+C:\Users\Usuario\Desktop\Cosas 2.0\Facu\PAV\Formularios\Formularios\obj\Debug\Formularios.Estadisticas.resources
